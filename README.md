@@ -1,2 +1,2 @@
 # Projetos_JS
-exercicios, projetos e ultilização de frameworks
+exercicios, projetos e utilização de frameworks
